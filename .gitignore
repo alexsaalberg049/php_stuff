@@ -1,0 +1,7 @@
+/vendor
+/.idea
+*.swp
+*/scss/scss_cache/*
+*/scss/*.map
+*/scss/vendor
+composer.phar
